@@ -1,1 +1,1 @@
-Sursele pentru problemele de la laboratoarele POO
+Sursele pentru problemele de la laboratoarele POO.
